@@ -1,1 +1,1 @@
-Programa para analisar e encontra erros ortografico e titulos ausentes no relatório 
+Codigo feito em Python para criar um programa para encontrar erros ortograficos e titulos ausentes em relatórios em excel 
